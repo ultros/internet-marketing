@@ -1,0 +1,8 @@
+1) ShortURL Service
+
+2) Javascript Redirrect:
+<form action="https://whatsmyreferer.com/" method="get" name="redirect"></form><script> document.forms['redirect'].submit() </script>
+
+3) Redirect to Landing Page - The referrer is then set to the domain hosting the JavaScript Redirect Code.
+
+ShortURL link -> JavaScript Redirect Hosted on a Webpage -> Landing Page
