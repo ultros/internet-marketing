@@ -1,6 +1,6 @@
 1) ShortURL Service
 
-2) Javascript Redirrect:
+2) Javascript Redirect:
 
 <form action="https://whatsmyreferer.com/" method="get" name="redirect"></form><script> document.forms['redirect'].submit() </script>
 
