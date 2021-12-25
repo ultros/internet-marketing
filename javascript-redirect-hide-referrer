@@ -1,2 +1,2 @@
-1) shorturl/xyz _ShortURL link to the page hosting the code from step 2.
+1) shorturl/xyz * *ShortURL link to the page hosting the code from step 2.* *
 2) <form action="https://whatsmyreferer.com/" method="get" name="redirect"></form><script> document.forms['redirect'].submit() </script>
